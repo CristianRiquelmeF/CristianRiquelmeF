@@ -38,8 +38,3 @@ Combino mi formación en ciencias sociales con habilidades técnicas en **Python
 
 ---
 
-##  Contacto
-- **Email**: cristianriquelme.ef@gmail.com  
-- **LinkedIn**: [Cristian Riquelme Fernández](https://www.linkedin.com/in/cristian-riquelme-fernandez/)  
-
----
