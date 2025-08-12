@@ -1,6 +1,4 @@
-# 👋 Hola, soy Cristian Riquelme Fernández
-
-🎓 **Sociólogo** con Diplomado en **Data Science** y especialización en metodologías cualitativas y cuantitativas. Apasionado por el análisis de datos, la investigación aplicada y la creación de soluciones basadas en datos para generar impacto social.
+ **Sociólogo** con Diplomado en **Data Science** y especialización en metodologías cualitativas y cuantitativas. Apasionado por el análisis de datos, la investigación aplicada y la creación de soluciones basadas en datos para generar impacto social.
 
 💡 Combino mi formación en ciencias sociales con habilidades técnicas en **Python**, **R**, **SQL**, **Power BI** y técnicas de **Machine Learning** para transformar datos complejos en información útil para la toma de decisiones.
 
