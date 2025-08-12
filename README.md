@@ -26,15 +26,5 @@ Combino mi formación en ciencias sociales con habilidades técnicas en **Python
 
 - **[Caracterización del consumo de sustancias en Chile](https://github.com/CristianRiquelmeF/Ciencia-de-datos/tree/main/Proyecto-diploma)**  
   Análisis exploratorio y modelado predictivo usando datos de SENDA, aplicando clustering, Gaussian Naive Bayes y Decision Tree, con técnicas de balanceo de clases.
-  
----
-
-## Certificaciones
-
--  Especialización Machine Learning - TD/Kibernum (2025) 
--  SQL Avanzado – Coderhouse (2023)  
--  Practical Data Science on AWS – DeepLearning.AI (2023)  
--  Power BI para Analítica Avanzada – DUOC UC (2022)  
-
 ---
 
