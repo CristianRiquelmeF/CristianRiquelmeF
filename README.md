@@ -4,7 +4,7 @@ Combino mi formación en ciencias sociales con habilidades técnicas en **Python
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 - **Lenguajes**: Python (Pandas, Scikit-learn, Matplotlib, Seaborn), R (dplyr, ggplot2)
 - **Bases de datos**: MySQL, SQL Server, PostgreSQL
@@ -12,7 +12,7 @@ Combino mi formación en ciencias sociales con habilidades técnicas en **Python
 - **Cloud**: AWS, Azure, GCP
 - **Otros**: Power Query, DAX, Excel avanzado, Atlas.ti
   
-## 🤖 Machine Learning
+## Machine Learning
 - Modelos supervisados: Regresión, Árboles de decisión, Random Forest, Gradient Boosting
 - Modelos no supervisados: Clustering K-Means / K-Modes, DBSCAN, PCA
 - Preprocesamiento: Normalización, Estandarización, Encoding, Feature Engineering
@@ -22,7 +22,7 @@ Combino mi formación en ciencias sociales con habilidades técnicas en **Python
 
 ---
 
-## 📌 Proyectos Destacados
+## Proyectos Destacados
 
 - **[Caracterización del consumo de sustancias en Chile](https://github.com/CristianRiquelmeF/Ciencia-de-datos/tree/main/Proyecto-diploma)**  
   Análisis exploratorio y modelado predictivo usando datos de SENDA, aplicando clustering, Gaussian Naive Bayes y Decision Tree, con técnicas de balanceo de clases.
