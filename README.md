@@ -16,6 +16,7 @@ Combino mi formación en ciencias sociales con habilidades técnicas en **Python
 - Modelos supervisados: Regresión, Árboles de decisión, Random Forest, Gradient Boosting
 - Modelos no supervisados: Clustering K-Means / K-Modes, DBSCAN, PCA
 - Preprocesamiento: Normalización, Estandarización, Encoding, Feature Engineering
+- Optimización y regularización.
 - Balanceo de clases: SMOTE, Oversampling, Undersampling
 - Validación: Validación cruzada, Grid Search, métricas de desempeño
 - Bibliotecas: Scikit-learn, XGBoost / LightGBM / CatBoost, TensorFlow / Keras
