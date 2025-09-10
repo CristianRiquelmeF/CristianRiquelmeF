@@ -6,7 +6,7 @@ Combino mi formación en ciencias sociales con habilidades técnicas en **Python
 
 ## Tecnologías y herramientas
 
-- **Lenguajes**: Python (Pandas, Scikit-learn, Matplotlib, Seaborn), R (dplyr, ggplot2)
+- **Lenguajes**: Python (Pandas, Scikit-learn, Matplotlib, Seaborn, POO), R (dplyr, ggplot2)
 - **Bases de datos**: MySQL, SQL Server, PostgreSQL
 - **Visualización**: Power BI, Tableau, Matplotlib, Seaborn
 - **Cloud**: AWS, Azure, GCP
