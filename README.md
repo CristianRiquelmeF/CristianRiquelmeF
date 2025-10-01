@@ -13,11 +13,11 @@ Combino mi formación en ciencias sociales con habilidades técnicas en **Python
 - **Otros**: Power Query, DAX, Excel avanzado, Atlas.ti
   
 ## Machine Learning
-- Modelos supervisados: Regresión (Lineal, Logística), Árboles de Decisión, Métodos de Ensamblaje (Random Forest, Gradient Boosting: XGBoost, LightGBM, CatBoost)
+- **Modelos supervisados:** Regresión (Lineal, Logística), Árboles de Decisión, Métodos de Ensamblaje (Random Forest, Gradient Boosting: XGBoost, LightGBM, CatBoost)
 - Modelos no supervisados: Clustering K-Means / K-Modes, DBSCAN, PCA
 - Preprocesamiento: Normalización, Estandarización, Encoding, Feature Engineering
-- Optimización: Regularización (L1, L2), Optimización de Hiperparámetros (Grid Search, Random Search)
-- Balanceo de clases: Técnicas de Muestreo (Oversampling, Undersampling), SMOTE (Synthetic Minority Over-sampling Technique) y sus variantes
+- Optimización: Regularización (L1, L2),Grid Search, Random Search
+- Balanceo de clases: Técnicas de Muestreo (Oversampling, Undersampling, SMOTE
 - Validación: Validación cruzada, métricas de desempeño (accuracy, f-1score, recall, curva ROC), matriz de confusión
 - Bibliotecas: Scikit-learn (Modelado general), Frameworks de Gradient Boosting (XGBoost, LightGBM, CatBoost), Aprendizaje Profundo (Deep Learning) con TensorFlow / Keras
 
