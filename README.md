@@ -10,7 +10,7 @@ Combino mi formación en ciencias sociales con habilidades técnicas en **Python
 - **Bases de datos**: MySQL, SQL Server, PostgreSQL
 - **Visualización**: Power BI, Tableau, Matplotlib, Seaborn
 - **Cloud**: AWS, Azure, GCP
-- **Otros**: Power Query, DAX, Excel avanzado, Atlas.ti
+- **Otros**: Power Query, DAX, Excel avanzado, Atlas.ti, SPSS, JASP
   
 ## Machine Learning
 - **Modelos supervisados:** Regresión (Lineal, Logística), Árboles de Decisión, Métodos de Ensamblaje (Random Forest, Gradient Boosting: XGBoost, LightGBM, CatBoost)
