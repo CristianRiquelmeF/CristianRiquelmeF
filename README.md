@@ -25,8 +25,6 @@ Combino mi formación en ciencias sociales con habilidades técnicas en **Python
 
 ## Proyectos Destacados
 
-- **[Caracterización del consumo de sustancias en Chile](https://github.com/CristianRiquelmeF/Ciencia-de-datos/tree/main/Proyecto-diploma)**  
-  Análisis exploratorio y modelado predictivo usando datos de SENDA, aplicando clustering, Gaussian Naive Bayes y Decision Tree, con técnicas de balanceo de clases.
 
 - **[Clasificador de Notas Clínicas con NLP y Enfoque Ético](https://github.com/CristianRiquelmeF/NLP-aplicado-a-Clasificacion-de-Notas-Clinicas)**   
   Desarrollo de un sistema para clasificar la gravedad de notas médicas. El reto no fue solo técnico, sino ético, se compararon modelos clásicos (TF-IDF) con arquitecturas Transformer (BERT), logrando un 99% de F1-Score y analizando los riesgos de la "falsa confianza" en métricas perfectas.
