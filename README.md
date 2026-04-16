@@ -37,7 +37,7 @@ Como parte de mi evolución profesional y culminación del Bootcamp de Desarroll
 
 1. **[Alke Wallet - Billetera Digital](https://github.com/CristianRiquelmeF/alke-wallet-django)**: Aplicación web financiera desarrollada en Django con arquitectura MVT, autenticación segura y manipulación avanzada de bases de datos relacionales con ORM.
 2. **[Gestor de Tareas y Proyectos](https://github.com/CristianRiquelmeF/app-Gestor-de-Tareas)**: Plataforma web para la administración e individualización de flujos de trabajo utilizando LoginRequiredMixin y vistas basadas en clases.
-3. **[Gestor Inteligente de Clientes (GIC)]https://github.com/CristianRiquelmeF/gic-project**: Aplicación de escritorio (GUI) construida con Tkinter y SQLite, enfocada en la aplicación estricta de la Programación Orientada a Objetos (POO).
+3. **[Gestor Inteligente de Clientes (GIC)](https://github.com/CristianRiquelmeF/gic-project)**: Aplicación de escritorio (GUI) construida con Tkinter y SQLite, enfocada en la aplicación estricta de la Programación Orientada a Objetos (POO).
 
 ---
 
@@ -63,5 +63,5 @@ Para ilustrar mi crecimiento técnico en el desarrollo backend, he seleccionado 
 ---
 
 ## Contacto
- **Email:** cristianriquelme.ef@gmail.com
+* **Email:** cristianriquelme.ef@gmail.com
 * **LinkedIn:** [in/cristian-riquelme-fernandez](https://www.linkedin.com/in/cristianriquelmef)
