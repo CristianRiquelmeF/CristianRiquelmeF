@@ -1,6 +1,6 @@
  **Sociólogo** con Diplomado en **Data Science** y especialización en metodologías cualitativas y cuantitativas. Apasionado por el análisis de datos, la investigación aplicada y la creación de soluciones basadas en datos para generar impacto social.
 
-Combino mi formación en ciencias sociales con habilidades técnicas en **Python**, **R**, **SQL**, **Power BI** y técnicas de **Machine Learning** para transformar datos complejos en información útil para la toma de decisiones.
+Combino mi formación en ciencias sociales con habilidades técnicas avanzadas en análisis (Python, R, Machine Learning) y desarrollo web backend (Django, bases de datos relacionales, POO). Transformo datos complejos en información útil y desarrollo las plataformas necesarias para facilitar la toma de decisiones.
 
 ---
 
@@ -10,6 +10,7 @@ Combino mi formación en ciencias sociales con habilidades técnicas en **Python
 - **Bases de datos**: MySQL, SQL Server, PostgreSQL
 - **Visualización**: Power BI, Tableau, Matplotlib, Seaborn
 - **Cloud**: AWS, Azure, GCP
+- **Desarrollo Web / Backend:** Django, Arquitectura MVT, HTML5/CSS3, APIs, SQL, Git/GitHub.
 - **Otros**: Power Query, DAX, Excel avanzado, Atlas.ti, SPSS, JASP
   
 ## Machine Learning
