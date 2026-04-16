@@ -30,3 +30,38 @@ Combino mi formación en ciencias sociales con habilidades técnicas en **Python
   
 ---
 
+
+## Desarrollo Fullstack (Proyectos Recientes)
+
+Como parte de mi evolución profesional y culminación del Bootcamp de Desarrollo Fullstack en Python, he ampliado mis capacidades para construir aplicaciones completas, seguras y escalables. Aquí presento 3 productos clave de esta formación:
+
+1. **[Alke Wallet - Billetera Digital](https://github.com/CristianRiquelmeF/alke-wallet-django)**: Aplicación web financiera desarrollada en Django con arquitectura MVT, autenticación segura y manipulación avanzada de bases de datos relacionales con ORM.
+2. **[Gestor de Tareas y Proyectos](https://github.com/CristianRiquelmeF/app-Gestor-de-Tareas)**: Plataforma web para la administración e individualización de flujos de trabajo utilizando LoginRequiredMixin y vistas basadas en clases.
+3. **[Gestor Inteligente de Clientes (GIC)]https://github.com/CristianRiquelmeF/gic-project**: Aplicación de escritorio (GUI) construida con Tkinter y SQLite, enfocada en la aplicación estricta de la Programación Orientada a Objetos (POO).
+
+---
+
+## Caso de Estudio: Desarrollo de Billetera Digital "Alke Wallet"
+
+Para ilustrar mi crecimiento técnico en el desarrollo backend, he seleccionado el proyecto **Alke Wallet** como mi caso de estudio principal.
+
+* **Breve descripción de la tarea:** Desarrollo desde cero de una aplicación web fintech para la empresa ficticia Alke Financial, permitiendo a los usuarios registrarse, autenticarse y gestionar clientes, cuentas y transacciones financieras.
+* **Desafío principal:** El mayor reto técnico fue diseñar un modelo de datos relacional robusto (Uno a Muchos) y sincronizarlo eficientemente mediante migraciones, asegurando además que las operaciones CRUD y las consultas a la base de datos fueran seguras y protegidas contra accesos no autorizados.
+* **Solución propuesta:** Implementé la arquitectura MVT (Model-View-Template) de Django. Utilicé Vistas Basadas en Clases (CBVs) para estandarizar el CRUD, apliqué `LoginRequiredMixin` para la protección de rutas, y combiné el ORM de Django con consultas SQL en crudo (`raw()`) para la manipulación avanzada de datos.
+* **Herramientas técnicas utilizadas:** Python 3, Django 4.x, SQLite, HTML5, CSS3, Git y GitHub (control de versiones mediante ramas).
+* **Principales aprendizajes alcanzados:** 
+  * Comprensión profunda de cómo el backend se comunica con el frontend mediante el paso de contextos y etiquetas de plantillas (`{% %}`).
+  * Dominio del sistema de migraciones para reflejar cambios en la base de datos sin perder información.
+  * Internalización de conceptos de seguridad web como la protección mediante Tokens CSRF.
+* **Métricas de impacto logradas:** 
+  * **100%** de funcionalidad CRUD implementada y testeada con éxito.
+  * **3 modelos** de bases de datos interrelacionados correctamente.
+  * Reducción del tiempo de desarrollo de las vistas en un **40%** al migrar de vistas basadas en funciones a Vistas Basadas en Clases (CBVs).
+* **Habilidades técnicas aplicadas:** Programación Orientada a Objetos, Modelado de Bases de Datos Relacionales, Enrutamiento Dinámico, Seguridad Backend (Auth & CSRF), y control de versiones.
+* **Justificación de elección:** Elegí este proyecto porque representa el "puente" entre mi perfil analítico (bases de datos) y el desarrollo de software. Demuestra que ya no solo puedo analizar datos en un Jupyter Notebook, sino que poseo las capacidades para construir la infraestructura web completa (backend y frontend) que sostiene una aplicación en un entorno real.
+
+---
+
+## Contacto
+ **Email:** cristianriquelme.ef@gmail.com
+* **LinkedIn:** [in/cristian-riquelme-fernandez](https://www.linkedin.com/in/cristianriquelmef)
