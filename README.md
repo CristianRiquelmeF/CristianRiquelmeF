@@ -67,5 +67,6 @@ Como parte de mi evolución profesional, amplié mi perfil hacia el desarrollo d
 ---
 
 ## Contacto
+- **Web:** https://cristianriquelmef.github.io/
 - **Email:** cristianriquelme.ef@gmail.com
 - **LinkedIn:** [Cristian Riquelme Fernández](https://www.linkedin.com/in/cristianriquelmef)
