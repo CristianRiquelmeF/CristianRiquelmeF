@@ -46,12 +46,12 @@ Como parte de mi evolución profesional, amplié mi perfil hacia el desarrollo d
   Aplicación de escritorio construida con Tkinter y SQLite, orientada a la gestión de clientes y al diseño estructurado bajo Programación Orientada a Objetos.
 
 
-## Análisis FODA Personal
+## Diferencial Profesional
 
-- **Fortalezas:** Visión interdisciplinaria. Combino el rigor metodológico de las ciencias sociales con habilidades técnicas avanzadas (Python, SQL, Django). Traduzco necesidades humanas/sociales en software robusto.
-- **Debilidades:** Menor exposición a frameworks avanzados de Frontend (ej. React/Vue), dado que mi especialización y fortaleza actual radican fuertemente en la lógica de Datos y Backend.
-- **Oportunidades:** Auge de la digitalización de servicios e integración de modelos de Machine Learning en aplicaciones web tradicionales, un espacio ideal para mi perfil mixto.
-- **Amenazas:** Saturación de perfiles Junior estandarizados en el mercado tech, lo que exige destacar constantemente el valor agregado de mi formación en Data y Sociología para diferenciarme.
+- **Visión interdisciplinaria:** Integro el rigor metodológico de las ciencias sociales con herramientas técnicas de análisis y desarrollo.
+- **Orientación aplicada:** Priorizo soluciones que conecten datos, contexto y utilidad práctica.
+- **Perfil híbrido:** Combino análisis, modelamiento y desarrollo backend para construir soluciones de punta a punta.
+- **Valor agregado:** Traduzco problemas complejos en productos analíticos y tecnológicos comprensibles para la toma de decisiones.
 
 ---
 
