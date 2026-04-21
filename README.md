@@ -1,6 +1,9 @@
- **Sociólogo** con Diplomado en **Data Science** y especialización en metodologías cualitativas y cuantitativas. Apasionado por el análisis de datos, la investigación aplicada y la creación de soluciones basadas en datos para generar impacto social.
+# Cristian Riquelme Fernández
+### Sociólogo + Data Science | Análisis de Datos, Machine Learning y Backend con Python
+ 
+**Sociólogo** con Diplomado en **Data Science** y formación en metodologías cualitativas y cuantitativas. Me especializo en el análisis de datos, la investigación aplicada y el desarrollo de soluciones tecnológicas orientadas a la toma de decisiones.
 
-Combino mi formación en ciencias sociales con habilidades técnicas avanzadas en análisis (Python, R, Machine Learning) y desarrollo web backend (Django, bases de datos relacionales, POO). Transformo datos complejos en información útil y desarrollo las plataformas necesarias para facilitar la toma de decisiones.
+Combino una base sólida en ciencias sociales con capacidades técnicas en **Python, R, SQL, Machine Learning y desarrollo backend con Django**. Mi enfoque está en transformar datos complejos en información clara, útil y accionable, construyendo además las herramientas necesarias para llevar ese análisis a contextos reales.
 
 ---
 
@@ -17,8 +20,8 @@ Combino mi formación en ciencias sociales con habilidades técnicas avanzadas e
 - **Modelos supervisados:** Regresión (Lineal, Logística), Árboles de Decisión, Métodos de Ensamblaje (Random Forest, Gradient Boosting: XGBoost, LightGBM, CatBoost)
 - **Modelos no supervisados:** Clustering K-Means / K-Modes, DBSCAN, PCA
 - **Preprocesamiento:** Normalización, Estandarización, Encoding, Feature Engineering, balanceo de clases
-- **Optimización:** Regularización (L1, L2),Grid Search, Random Search
-- **Validación:** Validación cruzada, métricas de desempeño (accuracy, f-1score, recall, curva ROC), matriz de confusión
+- **Optimización:** Regularización (L1, L2), Grid Search, Random Search
+- **Validación:** Validación cruzada, métricas de desempeño (accuracy, F1-score, recall, curva ROC), matriz de confusión
 - **Bibliotecas:** Scikit-learn (Modelado general), Frameworks de Gradient Boosting (XGBoost, LightGBM, CatBoost), Aprendizaje Profundo (Deep Learning) con TensorFlow / Keras
 
 ---
@@ -26,19 +29,21 @@ Combino mi formación en ciencias sociales con habilidades técnicas avanzadas e
 ## Proyectos Destacados
 
 
-- **[Clasificador de Notas Clínicas con NLP y Enfoque Ético](https://github.com/CristianRiquelmeF/NLP-aplicado-a-Clasificacion-de-Notas-Clinicas)**   
-  Desarrollo de un sistema para clasificar la gravedad de notas médicas. El reto no fue solo técnico, sino ético, se compararon modelos clásicos (TF-IDF) con arquitecturas Transformer (BERT), logrando un 99% de F1-Score y analizando los riesgos de la "falsa confianza" en métricas perfectas.
+- **[Termómetro Digital de Audiencias: Análisis de Sentimiento en YouTube con NLP avanzado](https://github.com/CristianRiquelmeF/social-listening-yt-analytics)**   
+   Desarrollo de una solución de NLP orientada al análisis de audiencias digitales a partir de comentarios de YouTube. El sistema automatiza la extracción de datos mediante web scraping, procesa texto no estructurado y clasifica sentimiento con modelos Transformer en español, integrando además niveles de confianza y visualización analítica para convertir opinión pública digital en información accionable.
   
 ---
 
 
 ## Desarrollo Fullstack (Proyectos Recientes)
 
-Como parte de mi evolución profesional y culminación del Bootcamp de Desarrollo Fullstack en Python, he ampliado mis capacidades para construir aplicaciones completas, seguras y escalables. Aquí presento 3 productos clave de esta formación:
+Como parte de mi evolución profesional, amplié mi perfil hacia el desarrollo de aplicaciones completas en Python, integrando lógica de negocio, persistencia de datos y arquitectura backend.
 
-1. **[Alke Wallet - Billetera Digital](https://github.com/CristianRiquelmeF/alke-wallet-django)**: Aplicación web financiera desarrollada en Django con arquitectura MVT, autenticación segura y manipulación avanzada de bases de datos relacionales con ORM.
-2. **[Gestor de Tareas y Proyectos](https://github.com/CristianRiquelmeF/app-Gestor-de-Tareas)**: Plataforma web para la administración e individualización de flujos de trabajo utilizando LoginRequiredMixin y vistas basadas en clases.
-3. **[Gestor Inteligente de Clientes (GIC)](https://github.com/CristianRiquelmeF/gic-project)**: Aplicación de escritorio (GUI) construida con Tkinter y SQLite, enfocada en la aplicación estricta de la Programación Orientada a Objetos (POO).
+- **[Gestor de Tareas y Proyectos](https://github.com/CristianRiquelmeF/app-Gestor-de-Tareas)**  
+  Aplicación web para la administración e individualización de flujos de trabajo, desarrollada con Django, autenticación y vistas basadas en clases.
+
+- **[Gestor Inteligente de Clientes (GIC)](https://github.com/CristianRiquelmeF/gic-project)**  
+  Aplicación de escritorio construida con Tkinter y SQLite, orientada a la gestión de clientes y al diseño estructurado bajo Programación Orientada a Objetos.
 
 
 ## Análisis FODA Personal
@@ -51,5 +56,5 @@ Como parte de mi evolución profesional y culminación del Bootcamp de Desarroll
 ---
 
 ## Contacto
-* **Email:** cristianriquelme.ef@gmail.com
-* **LinkedIn:** [in/cristian-riquelme-fernandez](https://www.linkedin.com/in/cristianriquelmef)
+- **Email:** cristianriquelme.ef@gmail.com
+- **LinkedIn:** [Cristian Riquelme Fernández](https://www.linkedin.com/in/cristian-riquelmef)
