@@ -35,7 +35,7 @@ He trabajado en proyectos de segmentación, riesgo crediticio, análisis de sent
 - **[Termómetro Digital de Audiencias: Análisis de Sentimiento en YouTube con NLP](https://github.com/CristianRiquelmeF/social-listening-yt-analytics)**   
    Desarrollo de una solución de NLP orientada al análisis de audiencias digitales a partir de comentarios de YouTube. El sistema automatiza la extracción de datos mediante web scraping, procesa texto no estructurado y clasifica sentimiento con modelos Transformer en español, integrando además niveles de confianza y visualización analítica para convertir opinión pública digital en información accionable.
 
-- **[Pipeline de MLOps: Análisis Multidimensional y PCA](https://github.com/CristianRiquelmeF/mlops-dimensionality-reduction-pipeline)**
+- **[Pipeline de MLOps: Análisis Multidimensional y PCA](https://github.com/CristianRiquelmeF/mlops-dimensionality-reduction-pipeline)**    
    Implementación de pipeline escalable de reducción de dimensionalidad (PCA). Aplicado en este caso de uso al dataset de California Housing, el pipeline está diseñado bajo prácticas de Ingeniería de Machine Learning para ingerir datos, evitar fugas de información, optimizar componentes y persistir artefactos para producción. 
 
 - **[Segmentación de Clientes con K-Modes](https://github.com/CristianRiquelmeF/Segmentacion-clientes-Kmodes/tree/main)**   
